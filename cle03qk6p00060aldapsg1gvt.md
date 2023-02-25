@@ -91,4 +91,4 @@ In conclusion, these six new array functions in ES6 provide a powerful and conve
 
 Thank you for reading!
 
-**Bhushan Patil**
+%%[youtube]
