@@ -96,5 +96,4 @@ If you enjoy reading my blog, please consider subscribing to my newsletter, leav
 
 Thank You
 
-**Bhushan Patil  
-**
+%%[youtube]
