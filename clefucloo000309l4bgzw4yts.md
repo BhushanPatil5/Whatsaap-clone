@@ -133,3 +133,5 @@ There are several libraries available that provide local state management soluti
 Some popular local state management libraries include Unstated, Recoil, and Zustand.
 
 In conclusion, while global state managers can be useful in certain situations, they may not be necessary for all applications built with React. React's built-in state management system, the Context API, and local state management libraries can all be used as alternatives to global state managers.
+
+%%[youtube]
