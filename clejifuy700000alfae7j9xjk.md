@@ -75,3 +75,5 @@ As you can see, `useState` can access the currently rendered component instance 
 React Hooks leverage the hidden state of a component, which is stored in a fiber. The React renderer grants hook access to relevant information and associates the component instance with hook functions. This allows for efficient state management and enhances the development experience.
 
 In conclusion, React Hooks are a powerful tool for writing React components more simply and efficiently. <mark>They use closures to manage state</mark> and lifecycle methods in functional components, allowing you to write reusable logic and share stateful logic between components. Understanding how Hooks work under the hood can help you write better React code and take advantage of the full potential of this amazing library.
+
+%%[youtube]
