@@ -7,7 +7,7 @@ cuid: clesu2oum000m09l3fk7z90kb
 slug: 10-new-javascript-features-to-start-using-today
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677696346609/46becd82-ce74-46d5-85be-93b2d2958932.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677696363736/54f6d3ff-f247-499e-8920-de64cef0c858.png
-tags: javascript, es6, classes, optional-chaining, nullish-coalescing
+tags: javascript, es6, optional-chaining, 2articles1week, nullish-coalescing
 
 ---
 
